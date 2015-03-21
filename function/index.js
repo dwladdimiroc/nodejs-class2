@@ -1,5 +1,5 @@
 //Función Javascript
-var serverIP = 'http://192.168.2.4';
+var serverIP = 'localhost';
 var port = 8080;
 
 try {
